@@ -10,10 +10,11 @@ We merged covid (https://data.cityofchicago.org/Health-Human-Services/Daily-Chic
 ## Questions
 **Q:** Which crimes are most committed in Chicago? 
 **A:** Battery is the most commited crime in Chicago
-https://github.com/rsa153/cc-project1/blob/main/Plot_Images/Chicago%20Crime%20type.png
+![ChicagoCrimeType](./Images/ChicagoCrimeType.png)
 
 **Q:** What is the relationship between total crime and covid cases?
 **A:** We see a very weak association between total crime and covid cases, with an R squared value of .0441. 
+The crime rate decreases as the covid cases first spiked and the second covid spike didn’t have much impact on crime rate. Two spikes(protest) can be seen for crimes on May 31 and August 10
 
 **Q:** What is the relationship between nondomestic crimes and covid cases?
 **A:** We see a very weak association between nondomestic crime and covid cases, with an R squared value of 0.0182. 
