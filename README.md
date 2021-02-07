@@ -2,10 +2,10 @@
 #  Project: Chicago Crime
 
 ## Team Members: 
-    Tori Arriola,Yifei Cao, Maxim Mandel, Rana Saber	
+Tori Arriola,Yifei Cao, Maxim Mandel, Rana Saber	
 
 ## Project Description: 
-    We merged covid (https://data.cityofchicago.org/Health-Human-Services/Daily-Chicago-COVID-19-Cases-Deaths-and-Hospitaliz/kxzd-kd6a) and crime (https://www.chicago.gov/city/en/dataset/crime.html) data sets based on date and we plotted crime and covid cases for each day or each week from March 2020 to January 2021 to see if there is any relationship between covid cases and crime. 
+We merged covid (https://data.cityofchicago.org/Health-Human-Services/Daily-Chicago-COVID-19-Cases-Deaths-and-Hospitaliz/kxzd-kd6a) and crime (https://www.chicago.gov/city/en/dataset/crime.html) data sets based on date and we plotted crime and covid cases for each day or each week from March 2020 to January 2021 to see if there is any relationship between covid cases and crime. 
 
 ## Questions
 **Q:** Which crimes are most committed in Chicago? 
